@@ -1,0 +1,15 @@
+Package: testidy
+Type: Package
+Title: donne le carré
+Version: 0.1.0
+Author: Idrissa Dabo 
+Maintainer: Idrissa Dabo <ididabo@gmail.com>
+Description: This function takes a numeric value, and squares it.
+    It is intended to be used as a replacement for `value^2`.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
